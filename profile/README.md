@@ -54,7 +54,7 @@ DATABASE_URL="postgresql://<seuUsuario>:<suaSenha>@localhost:<porta>/<nomeDoBanc
 
 <br>
 
-```
+```sh 
 # Na pasta do projeto
 
 # Para instalar as dependências do Front-End e rodá-lo
